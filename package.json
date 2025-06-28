@@ -1,0 +1,12 @@
+{
+  "name": "vwhat-to-watc-s9hnvn",
+  "version": "1.0.0",
+  "description": "Generated project for vwhat-to-watc-s9hnvn",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
